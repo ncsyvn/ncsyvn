@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Sy Nguyen. I am an Python developer, majoring in Software Technology. I am interested in the following topics: Python and AWS. Reinforcement Learning.<br>
+My name is Sy Nguyen. I am an Python developer, majoring in Software Technology. I am interested in the following topics: Python and AWS.<br>
 ## 📫 How to reach me: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ncsyvn/)
 
