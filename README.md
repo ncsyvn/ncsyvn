@@ -5,7 +5,7 @@ My name is Sy Nguyen. I am an Python developer, majoring in Software Technology.
 
 
 
-![Sy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Sy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ncsyvn&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ncsyvn/social-product">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -18,7 +18,7 @@ My name is Sy Nguyen. I am an Python developer, majoring in Software Technology.
 
 <a href="https://github.com/ncsyvn/DijkstraGUI_Python/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncsyvn&repo=DijkstraGUI-Python&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncsyvn&repo=DijkstraGUI_Python&theme=gruvbox" />
 </a>    
 <a href="https://github.com/ncsyvn/Restaurant_Backend/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
