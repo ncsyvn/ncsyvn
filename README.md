@@ -24,3 +24,12 @@ My name is Sy Nguyen. I am an Python developer, majoring in Software Technology.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncsyvn&repo=Restaurant_Backend&theme=dark" />
 </a>
+
+<a href="https://github.com/ncsyvn/SmartCity-Backend-Camera">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncsyvn&repo=SmartCity-Backend-Camera&theme=radical" />
+</a>   
+<a href="https://github.com/ncsyvn/music-project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ncsyvn&repo=music-project&theme=dark" />
+</a>
